@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhisek Chowdhury and I'm  from Kolkata Currently working at The Web Trix Limited as a Full Stack Developer</p>
+<p align="left">My name is Abhisek Chowdhury and I'm from Kolkata Currently working at Sister Nivedita University (SNU) as a Full Stack Developer</p>
 
 ###
 
